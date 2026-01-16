@@ -1,4 +1,8 @@
 
+## 🎥 Demo Video
+[Watch the demo video](https://github.com/yadavprateek-here/raw/main/assets/demo.mp4)
+
+
 # L'Essence Resort & Spa – Hotel Website
 
 A modern, premium hotel website built with **Angular** and **Firebase**, featuring a public-facing guest experience and a secure admin panel for hotel management.
@@ -96,4 +100,6 @@ This project is designed to be **cost-effective, scalable, and production-ready*
 
 ### Run Project 
 1> ng serve
+
+
 
