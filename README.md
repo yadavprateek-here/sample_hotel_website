@@ -90,9 +90,9 @@ This project is designed to be **cost-effective, scalable, and production-ready*
 - Firebase account
 
 ### Install dependencies
-1>  npm install -g @angular/cli
-2>  npm install -g typescript  
-3>  npm install  
+- npm install -g @angular/cli
+- npm install -g typescript
+- npm install
 
 ### Run Project 
 1> ng serve
