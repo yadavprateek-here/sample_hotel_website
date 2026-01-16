@@ -1,6 +1,6 @@
 
 ## 🎥 Demo Video
-[Watch the demo video](https://youtu.be/S18fmC7eoyk)
+[Watch the demo video](Thumbnail.png)](https://youtu.be/S18fmC7eoyk)
 
 
 # L'Essence Resort & Spa – Hotel Website
