@@ -1,0 +1,4 @@
+1>  npm install -g @angular/cli
+2>  npm install -g typescript  
+3>  npm install  
+4>  ng serve
