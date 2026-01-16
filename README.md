@@ -1,6 +1,6 @@
 
 ## 🎥 Demo Video
-[Watch the demo video](https://github.com/yadavprateek-here/raw/main/assets/demo.mp4)
+[Watch the demo video](https://github.com/yadavprateek-here/sample_hotel_website/blob/main/Sample_video.mp4)
 
 
 # L'Essence Resort & Spa – Hotel Website
